@@ -4,11 +4,13 @@ PRs Welcome contributor GitHub last commit status
 
 
 #소개
--이름: 차지혁
--군필여부:육군병장으로 복무완료
--취미: 헬스, 요리, 칵테일, 여행
--Email: just0129@naver.com
--GitHub: https://github.com/beagle0129
+이름: 차지혁
+
+군필여부:육군병장으로 복무완료
+
+취미: 헬스, 요리, 칵테일, 여행Email: just0129@naver.com
+
+GitHub: https://github.com/beagle0129
 
 
 
